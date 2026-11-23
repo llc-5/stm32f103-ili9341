@@ -1,0 +1,28 @@
+# Keil MDK build output
+Objects/
+Listings/
+Project Backups/
+DebugConfig/
+*.uvguix.*
+*.bak
+*.backup
+*.broken_backup
+*.log
+*.dep
+*.d
+*.o
+*.axf
+*.hex
+*.sfr
+*.map
+*.lst
+*.obj
+*.lib
+
+# VS Code local settings
+.vscode/
+
+# Windows junk
+Thumbs.db
+desktop.ini
+.DS_Store
